@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm alxrey
 
-An embedded system developer :robot:
+An embedded system developer. I live and work in Switzerland :switzerland:
 
 <!--
 **alxrey/alxrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
